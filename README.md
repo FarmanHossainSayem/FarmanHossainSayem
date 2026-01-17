@@ -9,9 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=farmanhossainsayem&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
 
 
 
